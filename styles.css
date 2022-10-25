@@ -158,6 +158,14 @@ justify-content: center;
 align-content: center;
 }
 
+.fourthsection {
+display: flex;
+justify-content: center;
+align-items: center;
+height: 150px ;
+padding:30px;
+}
+
 #footer {
     display: flex;
     height: 72px;
